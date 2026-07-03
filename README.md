@@ -1,8 +1,16 @@
 <p align="center">
   <a href="https://github.com/Vectivuss">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vectivuss&layout=compact&theme=radical&count_private=true&border_radius=10" alt="Vectivuss's GitHub Stats" />
+    <img
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vectivuss&layout=compact&theme=radical&count_private=true&border_radius=10"
+      alt="Vectivuss's GitHub Stats"
+      width="49%"
+    />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Vectivuss&theme=radical&count_private=truehide_border=true" alt="Vectivus's GitHub Streak" width="49%" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Vectivuss&theme=radical&count_private=true&border_radius=10"
+    alt="Vectivuss's GitHub Streak"
+    width="49%"
+  />
 </p>
 
 <p align="center">
